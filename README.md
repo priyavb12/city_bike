@@ -22,7 +22,7 @@ Jupyter Notebook was used to change the trip duration data to a datetime field.
 
 Trips by Gender (Weekday per Hour) Males are high users during the peak hours.
 
-![alt text](image.png)
+
 
 [Trips by Gender](https://public.tableau.com/app/profile/priya.lakshmi.balasubramanian/viz/citi_bike_17294039393590/BikeIDGenderUsertype?publish=yes).
 
