@@ -33,15 +33,11 @@ Trips by Gender (Weekday per Hour) Males are high users during the peak hours.
 Trips by Gender and User Type (Weekday per Hour) Males subscribers are the highest users followed by female subscribers.
 
 
-![alt text](image-1.png)
-
 
 3. Number of Rides per Hour
 
 Number of Rides per Hour Non-peak hours are 1-5 am
 
-
-![alt text](image-2.png)
 
 Summary:
 
@@ -54,4 +50,3 @@ For NYC, there were some interesting geographical areas of interest. Some trips 
 1. User Type Starting Location
 
 User Type Starting Location Subscribers are more likely to start trip farther than the main city center of NYC than others.
-![alt text](image-4.png)
